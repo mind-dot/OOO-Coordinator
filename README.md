@@ -1,6 +1,6 @@
 # OOO Consolidator
 
-A unified Out of Office automation tool that updates all your workplace status from a single form.
+A unified Out of Office automation tool that updates OOO status from a single form.
 
 ## Features
 
